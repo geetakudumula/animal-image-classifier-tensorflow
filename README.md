@@ -40,9 +40,8 @@ Layers:
 
 
 ## Project Files
-File	Description
-animal_classifier_v1.ipynb	Jupyter Notebook: data simulation, training, and prediction
-README.md	This project overview and notes
+1) animal_classifier_v1.ipynb ---> this is a	Jupyter Notebook: data simulation, training, and prediction
+2) README.md	This project overview and notes
 
 
 ## Sample Prediction Output
