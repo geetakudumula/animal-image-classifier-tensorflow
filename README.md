@@ -35,6 +35,8 @@ Layers:
 - Dense (128 units, ReLU)
 - Dense (64 units, ReLU)
 - Output Dense (3 units, Softmax)
+---
+
 
 
 ## Project Files
@@ -67,5 +69,7 @@ AIML/Cloud Solutions Architect
 
 If You Found This Useful...
 Feel free to star ⭐ this repo and follow along as I continue learning and building!
+
+---
 
 
