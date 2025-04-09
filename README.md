@@ -35,7 +35,7 @@ Layers:
 - Dense (128 units, ReLU)
 - Dense (64 units, ReLU)
 - Output Dense (3 units, Softmax)
----
+```
 
 
 
